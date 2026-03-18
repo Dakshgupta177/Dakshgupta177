@@ -31,14 +31,29 @@
 <img src="https://skillicons.dev/icons?i=c,html,css,js,nodejs,vscode,git,github,figma,mongodb,nextjs,typescript&theme=dark" />
 </div>
 
-<br/>
+---
 
-<div align="center">
+### GitHub Statistics
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dakshgupta177&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dakshgupta177&layout=compact&theme=tokyonight&hide_border=false" width="39%" />
-</div>
+</p>
 
-<br/>
+---
+
+### 🔥 GitHub Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Dakshgupta177&theme=tokyonight" />
+</p>
+
+---
+
+### 🧠 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dakshgupta177&layout=compact&theme=tokyonight&hide_border=false" width="39%" />
+</p>
 
 ---
 
