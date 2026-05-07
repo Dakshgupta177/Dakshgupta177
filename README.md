@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/Dakshgupta177">
-    <img src="https://komarev.com/ghpvc/?username=Dakshgupta177&label=Profile%20Views&color=blueviolet&style=flat-square" />
+    <img src="https://komarev.com/ghpvc/?username=Dakshgupta177&label=Profile%20Views&color=blue&style=flat" />
   </a>
 </p>
 
@@ -36,7 +36,15 @@
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dakshgupta177&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dakshgupta177&show_icons=true&theme=radical&count_private=true&include_all_commits=true" width="48%" />
+</p>
+
+---
+
+### 📊 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Dakshgupta177&theme=radical&row=1&column=6" />
 </p>
 
 ---
@@ -44,7 +52,7 @@
 ### 🔥 GitHub Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Dakshgupta177&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Dakshgupta177&theme=radical" />
 </p>
 
 ---
@@ -52,7 +60,7 @@
 ### 🧠 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dakshgupta177&layout=compact&theme=tokyonight&hide_border=false" width="39%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Dakshgupta177&layout=compact&theme=radical" width="39%" />
 </p>
 
 ---
@@ -75,11 +83,38 @@
 
 <div align="center">
 
+<a href="mailto:dakshgupta2k7@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/daksh-gupta-b51143372/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 <a href="https://github.com/Dakshgupta177">
   <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+</div>
 
 <br/>
-<img src="https://komarev.com/ghpvc/?username=Dakshgupta177&color=blue&style=flat-square&label=visitors" />
+<br/>
+
+<div align="center">
+  
+### ✨ Thanks for visiting my profile ✨
+
+<p>
+  Made with ❤️ by <strong>Daksh Gupta</strong>
+</p>
+
+<p>
+  📧 <a href="mailto:dakshgupta2k7@gmail.com">dakshgupta2k7@gmail.com</a>
+</p>
+
+<p>
+  © 2026 Daksh Gupta. All Rights Reserved.
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=Dakshgupta177&color=blue&style=for-the-badge&label=visitors" />
 
 </div>
