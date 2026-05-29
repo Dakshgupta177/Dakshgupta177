@@ -44,7 +44,7 @@
 ### 📊 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dakshgupta177&theme=radical&row=1&column=6" />
+  <img src="https://github-trophies.vercel.app/?username=dakshgupta177&theme=radical&row=1&column=6" />
 </p>
 
 ---
@@ -53,6 +53,14 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Dakshgupta177&theme=radical" />
+</p>
+
+---
+
+### 🔥 GitHub Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dakshgupta177&theme=radical" />
 </p>
 
 ---
