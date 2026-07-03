@@ -71,17 +71,13 @@
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Dakshgupta177&layout=compact&theme=radical" width="39%" />
 </p>
 
----
-
 ### 🚀 Featured Projects
-
 <div align="center">
 
 | Project | Description | Tech |
 |:---:|:---:|:---:|
-| **[Jio Cinema Clone](https://github.com/Dakshgupta177/Jio_Cinema_FULLSTACK)** | Full-stack streaming platform clone | JavaScript |
-| **[E-Commerce App](https://github.com/Dakshgupta177/E_Commerce_Full_Stack)** | Shopping platform with cart & checkout | Full Stack |
-| **[Todo Twist AI](https://github.com/Dakshgupta177/Todo-Twist-AI)** | AI-powered task manager | TypeScript |
+| **[NovaCart AI](https://github.com/Dakshgupta177/NovaCart)** | Full-stack AI-powered e-commerce platform with AI recommendations, intelligent search, auth, and admin functionality | React.js, Node.js, Express.js, MongoDB, Tailwind CSS |
+| **[StreamVerse](https://github.com/Dakshgupta177/Stream_Verse)** | Modern movie & TV streaming platform with real-time media data, dynamic routing, and responsive UI | Next.js, JavaScript, Tailwind CSS, TMDB API |
 
 </div>
 
